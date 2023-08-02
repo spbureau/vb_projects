@@ -1,0 +1,17 @@
+C:\Users\bless\source\repos\VB university book\VB university book\bin\Debug\net6.0-windows\VB university book.exe
+C:\Users\bless\source\repos\VB university book\VB university book\bin\Debug\net6.0-windows\VB university book.deps.json
+C:\Users\bless\source\repos\VB university book\VB university book\bin\Debug\net6.0-windows\VB university book.runtimeconfig.json
+C:\Users\bless\source\repos\VB university book\VB university book\bin\Debug\net6.0-windows\VB university book.dll
+C:\Users\bless\source\repos\VB university book\VB university book\bin\Debug\net6.0-windows\VB university book.pdb
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.vbproj.AssemblyReference.cache
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB_university_book.Form1.resources
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.vbproj.GenerateResource.cache
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.AssemblyInfoInputs.cache
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.AssemblyInfo.vb
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.vbproj.CoreCompileInputs.cache
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.dll
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\refint\VB university book.dll
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.pdb
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\VB university book.genruntimeconfig.cache
+C:\Users\bless\source\repos\VB university book\VB university book\obj\Debug\net6.0-windows\ref\VB university book.dll

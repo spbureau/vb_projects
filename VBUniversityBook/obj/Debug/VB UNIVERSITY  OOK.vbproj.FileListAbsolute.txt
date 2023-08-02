@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\bin\Debug\VB UNIVERSITY  OOK.exe.config
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\bin\Debug\VB UNIVERSITY  OOK.exe
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\bin\Debug\VB UNIVERSITY  OOK.pdb
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\bin\Debug\VB UNIVERSITY  OOK.xml
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB UNIVERSITY  OOK.vbproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB UNIVERSITY  OOK.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB_UNIVERSITY__OOK.Form1.resources
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB_UNIVERSITY__OOK.Resources.resources
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB UNIVERSITY  OOK.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB UNIVERSITY  OOK.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB UNIVERSITY  OOK.exe
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB UNIVERSITY  OOK.xml
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\VB UNIVERSITY  OOK\obj\Debug\VB UNIVERSITY  OOK.pdb

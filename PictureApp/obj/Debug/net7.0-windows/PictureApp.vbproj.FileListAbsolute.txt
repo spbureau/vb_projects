@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\bin\Debug\net7.0-windows\PictureApp.exe
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\bin\Debug\net7.0-windows\PictureApp.deps.json
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\bin\Debug\net7.0-windows\PictureApp.runtimeconfig.json
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\bin\Debug\net7.0-windows\PictureApp.dll
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\bin\Debug\net7.0-windows\PictureApp.pdb
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.vbproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.Form1.resources
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.AssemblyInfo.vb
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.dll
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\refint\PictureApp.dll
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.pdb
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\PictureApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\PictureApp\obj\Debug\net7.0-windows\ref\PictureApp.dll
