@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\bin\Debug\UNIVERSITY BOOK STORE.exe.config
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\bin\Debug\UNIVERSITY BOOK STORE.exe
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\bin\Debug\UNIVERSITY BOOK STORE.pdb
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\bin\Debug\UNIVERSITY BOOK STORE.xml
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY BOOK STORE.vbproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY BOOK STORE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY_BOOK_STORE.Form1.resources
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY_BOOK_STORE.Resources.resources
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY BOOK STORE.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY BOOK STORE.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY BOOK STORE.exe
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY BOOK STORE.xml
+C:\Users\HP\Desktop\MyWorkspaceX\Projects\VB.NET\UNIVERSITY BOOK STORE\obj\Debug\UNIVERSITY BOOK STORE.pdb
